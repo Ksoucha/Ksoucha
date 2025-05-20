@@ -8,44 +8,55 @@ Relevant courses completed: **Advanced Data Structures, Advanced Object-Oriented
 My itch profile: https://ksoucha.itch.io
 
 # My projects
-## BoucleBleue
-_My first narrative text-based game, made with Visual Studio in C#_  
--Implemented 5 different rooms in the game that the player can explore  
--Implemented the logic of the 3 endings of the game
+## [BoucleBleue](https://github.com/Ksoucha/BoucleBleue)
+_My first narrative text-based game, made with Visual Studio in C#_
+* Implemented 5 different rooms in the game that the player can explore
+* Implemented the logic of the 3 endings of the game
+* Contributed to the making of the gameplay logic
 
 ## The Bookworm - submission for the ScreamJam2024
 _Made with Unity in 3D_  
--Implemented a maze with an AI patrolling inside it
+* Implemented an AI patrolling inside a maze
+* Worked on the UI for the main menu, the end game screen and the narrative text transitions
+* Itch.io page: [The Bookworm](https://ksoucha.itch.io/the-bookworm)
 
-## Santa's elves
+## [Santa Elves](https://github.com/Ksoucha/SantaElves)
 _Made with Unity in 3D_  
--Worked on the gameplay logic (narrative game)  
--Contributed to the set up of the dialogue system
--Implemented a numpad
+* Worked on the gameplay logic (narrative game)
+* Contributed to the set-up of the dialogue system
+* Implemented a numpad
+* Implemented a particle system
+* Worked on the level design
 
-## SortingProject
+## [SortingProject](https://github.com/Ksoucha/SortingProject)
 _Made with OpenFrameworks in C++_  
-**Objective**: make a visual representation of 4 sorting algorithms that can be generated and regenerated dynamically  
--Implemented a random number generator to create a list of numbers  
--Implemented 4 different sorting algorithms represented by circles  
--Implemented the Fisher-Yates shuffle algorithm  
+**Objective**: make a visual representation of 4 sorting algorithms that can be generated and regenerated dynamically
+* Implemented a random number generator to create a list of numbers
+* Implemented 4 different sorting algorithms represented by circles
+* Implemented the Fisher-Yates shuffle algorithm
 
-## LinkedListVisualizer
+## [LinkedListVisualizer](https://github.com/Ksoucha/LinkedListVisualizerProject)
 _Made with OpenFrameworks in C++_  
-**Objective**: simulate how a linked list works by changing its properties dynamically  
--Includes an animation for the circles representing the linked list
+**Objective**: simulate how a linked list works by changing its properties dynamically
+* Implemented a linked list represented by circles
+* Implemented a random number generator to use for the values of the linked list
+* Implemented an animation for the circles
 
-## SteamBound - submission for the GameOff2024 jam
-_Made with Unreal Engine in Blueprint and C++_  
--Implemented the UI widgets and their logic in Blueprint  
--Worked on the game endings logic with Behavior Trees  
--Focused on a data-oriented structure by using data tables, structs and enums  
--Modified some Blueprints to include relavant data structures and algorithms as part of my school project
+## [SteamBound](https://github.com/Ksoucha/ProjectGameOff2024) - submission for the GameOff2024 game jam
+_Made with Unreal Engine in Blueprint and C++_
+* Implemented the UI widgets and their logic in Blueprint
+* Worked on the game endings logic with Behavior Trees
+* Focused on a data-oriented structure by using data tables, structs and enums
+* Modified some Blueprints to include relavant data structures and algorithms as part of my school project
+* Itch.io page: [SteamBound](https://doumeki21.itch.io/steambound)
 
-## Lazerbot
-_Made with Unreal Engine in Blueprint_  
--Worked on lasers that get blocked or reflected by different objects  
--Implemented cubes that can reflect lasers at a 90-degree angle
+## LazerBot
+_Made with Unreal Engine in Blueprint_
+* Worked on lasers mechanics - lasers that get blocked or reflected by different objects
+* Implemented cubes that can reflect lasers at a 90-degree angle
+* Worked on the level design
+* Worked on the gameplay logic
+* Itch.io page: [LazerBot](https://ksoucha.itch.io/lazerbot)
 
 
 <!--
