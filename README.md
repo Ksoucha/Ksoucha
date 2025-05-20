@@ -58,6 +58,11 @@ _Made with Unreal Engine in Blueprint_
 * Worked on the gameplay logic
 * Itch.io page: [LazerBot](https://ksoucha.itch.io/lazerbot)
 
+## Other projects
+* [EnigmAlchemy](https://github.com/Ksoucha/Enigmalchemy_Fork)
+* [FruityBird](https://github.com/Ksoucha/TP1_FruityBird)
+* [GravityMan](https://github.com/Ksoucha/TP2_GravityMan)
+
 
 <!--
 ![Ksoucha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksoucha&show_icons=true&theme=synthwave)
