@@ -45,9 +45,9 @@ _Made with OpenFrameworks in C++_
 ## [SteamBound](https://github.com/Ksoucha/ProjectGameOff2024) - submission for the GameOff2024 game jam
 _Made with Unreal Engine in Blueprint and C++_
 * Implemented the UI widgets and their logic in Blueprint
-* Worked on the game endings logic with Behavior Trees
-* Focused on a data-oriented structure by using data tables, structs and enums
-* Modified some Blueprints to include relavant data structures and algorithms as part of my school project
+* Worked on the civilian AI logic with Behavior Trees
+* Focused on a data-oriented structure by using data tables with game endings
+* Modified some Blueprints to optimize the code structure by adding relavant data structures and algorithms
 * Itch.io page: [SteamBound](https://doumeki21.itch.io/steambound)
 
 ## LazerBot
