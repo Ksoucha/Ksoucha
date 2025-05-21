@@ -1,5 +1,5 @@
 # Hi there 👋
-As a student in video game programming, I am looking for my first job as a video game programmer, having more experience with gameplay and UI programming specifically. Below are listed all of my projects, from my least recent one to the most recent one.
+As a student in video game programming, I am looking for my first job as a video game programmer, having more experience with gameplay and UI programming specifically. Below are listed all of my projects, from my most recent one to the least recent one.
 
 # About me
 Programming languages: **C#, C++**  
@@ -8,55 +8,69 @@ Relevant courses completed: **Advanced Data Structures, Advanced Object-Oriented
 My itch profile: https://ksoucha.itch.io
 
 # My projects
-## [BoucleBleue](https://github.com/Ksoucha/BoucleBleue)
-_My first narrative text-based game, made with Visual Studio in C#_
-* Implemented 5 different rooms in the game that the player can explore
-* Implemented the logic of the 3 endings of the game
-* Contributed to the making of the gameplay logic
+## LazerBot
+_Made with Unreal Engine in Blueprint_
 
-## The Bookworm - submission for the ScreamJam2024
-_Made with Unity in 3D_  
-* Implemented an AI patrolling inside a maze
-* Worked on the UI for the main menu, the end game screen and the narrative text transitions
-* Itch.io page: [The Bookworm](https://ksoucha.itch.io/the-bookworm)
-
-## [Santa Elves](https://github.com/Ksoucha/SantaElves)
-_Made with Unity in 3D_  
-* Worked on the gameplay logic (narrative game)
-* Contributed to the set-up of the dialogue system
-* Implemented a numpad
-* Implemented a particle system
-* Worked on the level design
-
-## [SortingProject](https://github.com/Ksoucha/SortingProject)
-_Made with OpenFrameworks in C++_  
-**Objective**: make a visual representation of 4 sorting algorithms that can be generated and regenerated dynamically
-* Implemented a random number generator to create a list of numbers
-* Implemented 4 different sorting algorithms represented by circles
-* Implemented the Fisher-Yates shuffle algorithm
-
-## [LinkedListVisualizer](https://github.com/Ksoucha/LinkedListVisualizerProject)
-_Made with OpenFrameworks in C++_  
-**Objective**: simulate how a linked list works by changing its properties dynamically
-* Implemented a linked list represented by circles
-* Implemented a random number generator to use for the values of the linked list
-* Implemented an animation for the circles
+**Description:** A laser-based puzzle game where you play as a robot navigating through multiple levels by redirecting laser beams and manipulating objects
+* Developed laser mechanics with interactive elements: beams can be blocked, reflected, or redirected by different objects
+* Designed level layouts to support smooth gameplay flow
+* Implemented a scoring system (in-game UI widget) to track the number of lasers successfully redirected into color-changing cones
+* Built UI widgets for the main menu, instructions, pause, and end-game screens, enhancing the user experience
+* Itch.io page: [LazerBot](https://ksoucha.itch.io/lazerbot)
 
 ## [SteamBound](https://github.com/Ksoucha/ProjectGameOff2024) - submission for the GameOff2024 game jam
 _Made with Unreal Engine in Blueprint and C++_
-* Implemented the UI widgets and their logic in Blueprint
-* Worked on the civilian AI logic with Behavior Trees
-* Focused on a data-oriented structure by using data tables with game endings
-* Modified some Blueprints to optimize the code structure by adding relavant data structures and algorithms
+
+**Description:** An action-adventure game where the player can fight enemies using different combinations of magic attributes (element, shape, size, speed). It is also possible to switch between first-person and top-down mode, the latter allowing the player to strategically control allies to defeat the enemies.
+* Implemented the UI widgets for the main menu, the game-over screen and the end-game screen
+* Implemented civilian AI behavior using Behavior Trees, enabling dynamic alert-level changes
+* Developed a data-oriented system for interactable books using data tables and enum-driven IDs, allowing narrative and level designers to dynamically update content without code changes
+* Optimized the Music Manager blueprint by replacing inefficient per-frame agent checks with collision-based triggers and implementing a map structure (instead of multiple booleans) for music selection
 * Itch.io page: [SteamBound](https://doumeki21.itch.io/steambound)
 
-## LazerBot
-_Made with Unreal Engine in Blueprint_
-* Worked on lasers mechanics - lasers that get blocked or reflected by different objects
-* Implemented cubes that can reflect lasers at a 90-degree angle
+## [LinkedListVisualizer](https://github.com/Ksoucha/LinkedListVisualizerProject)
+_Made with OpenFrameworks in C++_
+
+**Objective**: simulate how a linked list works by changing its properties dynamically
+* Implemented a random number generator to use for the values of the linked list
+* Implemented a linked list represented by circles with the numbers inside
+* Implemented an oscillating animation for the circles
+
+## [SortingProject](https://github.com/Ksoucha/SortingProject)
+_Made with OpenFrameworks in C++_
+
+**Objective**: make a visual representation of 4 sorting algorithms that can be generated and regenerated during runtime
+* Implemented a random number generator to create a list of numbers
+* Implemented 4 different sorting algorithms represented by circles with the numbers inside
+* Implemented the Fisher-Yates shuffle algorithm
+
+## [Santa Elves](https://github.com/Ksoucha/SantaElves)
+_Made with Unity in 3D_
+
+**Description:** A first-person Christmas narrative game where you play as an elf on a mission to finish the final toy needed for Santa's present delivery
+* Worked on the story progression (talk to NPCs, find objects and give them to the right person)
+* Contributed to the set-up of the dialogue system
+  * Dynamic dialogue that changes depending on the actions completed
+  * In-level UI text that appears only when interacting with a character (by pressing **E**)
+* Implemented a puzzle involving scattered stones and numbers that are used to solve numpad codes
+* Implemented a particle system for the light effect of the Christmas tree
 * Worked on the level design
-* Worked on the gameplay logic
-* Itch.io page: [LazerBot](https://ksoucha.itch.io/lazerbot)
+
+## The Bookworm - submission for the ScreamJam2024
+_Made with Unity in 3D_
+
+**Description:** Horror game where the player goes through a maze and tries to find an exit without getting spotted by the monster
+* Implemented an AI patrolling above the maze and "eating" the floor and wall tiles that he passes by
+* Worked on the UI for the main menu, the end game screen and the narrative text
+* Itch.io page: [The Bookworm](https://ksoucha.itch.io/the-bookworm)
+
+## [BoucleBleue](https://github.com/Ksoucha/BoucleBleue)
+_My first narrative text-based game, made in Console Application in C#_
+
+**Description:** Horror narrative game where players interact by choosing objects to inspect, rooms to explore, or actions to perform by typing one of the options shown in square brackets
+* Implemented a dependency-based progression system where specific actions unlock new possibilities and change the game atmosphere
+* Implemented interconnected rooms with descriptions that evolve as the story goes on
+* Implemented multiple endings, unlocked based on the player’s choices
 
 ## Other projects
 * [EnigmAlchemy](https://github.com/Ksoucha/Enigmalchemy_Fork)
