@@ -1,5 +1,5 @@
 # Hi there 👋
-As a student in video game programming, I am looking for my first job as a video game programmer, having more experience with gameplay and UI programming specifically. Below are listed all of my projects, from my most recent one to the least recent one.
+As a student in video game programming, I am looking for a job as a video game programmer, having more experience with gameplay and UI programming specifically. Below are listed all of my projects, from my most recent one to the least recent one.
 
 # About me
 Programming languages: **C#, C++**  
@@ -26,7 +26,7 @@ _Made with Unreal Engine in Blueprint and C++_
 * Implemented civilian AI behavior using Behavior Trees (to manage the patrol, alert and combat states)
 * Developed a data-oriented system for the Skill books using data tables and enum-driven IDs, allowing narrative and level designers to dynamically update content without code changes
 * Optimized the Music Manager blueprint by replacing inefficient per-frame agent checks with collision-based triggers and implementing a map structure (instead of multiple booleans) for music selection
-* Created a graph data structure to manage the game endings and completed missions
+* Created a graph-based system in the GameEndingsManager Blueprint to manage and trigger different game endings based on completed missions
 * Itch.io page: [SteamBound](https://doumeki21.itch.io/steambound)
 
 ## [LinkedListVisualizer](https://github.com/Ksoucha/LinkedListVisualizerProject)
@@ -60,7 +60,7 @@ _Made with Unity in 3D in C#_
 _Made with Unity in 3D in C#_
 
 **Description:** Horror game where the player goes through a maze and tries to find an exit without getting spotted by the monster
-* Implemented an AI patrolling above the maze and "eating" the floor and wall tiles that he passes by
+* Implemented an AI patrolling above the maze and making the floor and wall tiles that he passes by disappear
 * Worked on the UI for the main menu, the end game screen and the narrative text
 * Itch.io page: [The Bookworm](https://ksoucha.itch.io/the-bookworm)
 
