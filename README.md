@@ -42,7 +42,7 @@ _Made with OpenFrameworks in C++_
 
 **Objective**: make a visual representation of 4 sorting algorithms that can be generated and regenerated during runtime
 * Implemented a random number generator to create a list of numbers
-* Implemented 4 different sorting algorithms represented by circles with the numbers inside
+* Implemented 4 different sorting algorithms represented by circles with the numbers inside (Bubble, Insertion, Merge, Quick sorts)
 * Implemented the Fisher-Yates shuffle algorithm
 
 ## [Santa Elves](https://github.com/Ksoucha/SantaElves)
