@@ -56,7 +56,7 @@ _Made with Unity in 3D in C#_
 * Implemented a puzzle involving scattered stones and numbers that are used to solve numpad codes
 * Implemented a particle system for the light effect of the Christmas tree
 
-## The Bookworm - submission for the ScreamJam2024
+## [The Bookworm](https://github.com/Ksoucha/Bookworm_ScreamJam2024) - submission for the ScreamJam2024
 _Made with Unity in 3D in C#_
 
 **Description:** Horror game where the player goes through a maze and tries to find an exit without getting spotted by the monster
