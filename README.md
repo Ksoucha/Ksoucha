@@ -4,7 +4,7 @@ As a student in video game programming, I am looking for a job as a video game p
 # About me
 Programming languages: **C#, C++**  
 Most significant contribution: **SteamBound project**  
-Relevant courses completed: **Data Structures, Advanced Object-Oriented Programming, Game Engine 1&2 (Unity and Unreal)**  
+Relevant courses completed: **Advanced Data Structures, Advanced Object-Oriented Programming, Game Engine 1&2 (Unity and Unreal)**  
 My itch profile: https://ksoucha.itch.io
 
 # My projects
