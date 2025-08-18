@@ -59,9 +59,10 @@ _Made with Unity in 3D in C#_
 ## [The Bookworm](https://github.com/Ksoucha/Bookworm_ScreamJam2024) - submission for the ScreamJam2024
 _Made with Unity in 3D in C#_
 
-**Description:** Horror game where the player goes through a maze and tries to find an exit without getting spotted by the monster
+**Description:** Horror game where the player goes through a maze and must find the exit without getting spotted by the monster
+* Proposed and presented the game idea with a Miro board, outlining the gameplay flow and task breakdown
 * Implemented an AI patrolling above the maze and making the floor and wall tiles that he passes by disappear
-* Worked on the UI for the main menu, the end game screen and the narrative text
+* Worked on the UI for the main menu, the end-game screen and the narrative text
 * Itch.io page: [The Bookworm](https://ksoucha.itch.io/the-bookworm)
 
 ## [BoucleBleue](https://github.com/Ksoucha/BoucleBleue)
