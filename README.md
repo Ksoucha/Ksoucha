@@ -4,7 +4,7 @@ As a student in video game programming, I am looking for a job as a video game p
 # About me
 Programming languages: **C#, C++**  
 Most significant contribution: **SteamBound project**  
-Relevant courses completed: **Advanced Data Structures, Advanced Object-Oriented Programming, Game Engine 1&2 (Unity and Unreal)**  
+Relevant courses completed: **Advanced Data Structures, Object-Oriented Programming 1 & 2, Game Engine 1, 2 & 3(Unity and Unreal)**  
 My itch profile: https://ksoucha.itch.io
 
 # My projects
@@ -14,8 +14,8 @@ _Made with Unreal Engine in Blueprint_
 **Description:** A laser-based puzzle game where you play as a robot navigating through multiple levels by redirecting laser beams and manipulating objects
 * Developed laser mechanics with interactive elements: beams can be blocked, reflected, or redirected by different objects
 * Designed level layouts to support smooth gameplay flow
-* Implemented a scoring system (in-game UI widget) to track the number of lasers successfully redirected into color-changing cones
-* Built UI widgets for the main menu, instructions, pause, and end-game screens
+* Implemented a scoring system to track the number of lasers successfully redirected into color-changing cones
+* Built UI widgets for the main menu, instructions, pause, score, and end-game screens
 * Itch.io page: [LazerBot](https://ksoucha.itch.io/lazerbot)
 
 ## [SteamBound](https://github.com/Ksoucha/ProjectGameOff2024) - submission for the GameOff2024 game jam
