@@ -75,7 +75,7 @@ _My first narrative text-based game, made in Console Application in C#_
 
 ## Other projects
 * [EnigmAlchemy](https://github.com/Ksoucha/Enigmalchemy_Fork): an open-source game contribution project, highlighting the use of linked lists, arrays, lists and code refactoring in a game
-* [FruityBird](https://github.com/Ksoucha/TP1_FruityBird): a 2D mini-game following the style of the Suika game
+* [FruityBird](https://github.com/Ksoucha/TP1_FruityBird): a 2D mini-game inspired by the Suika game
 * [GravityMan](https://github.com/Ksoucha/TP2_GravityMan): a 2D mini-game featuring reversed gravity
 
 
