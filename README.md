@@ -1,10 +1,10 @@
 # Hi there 👋
-As a student in video game programming, I am looking for a job as a video game programmer, having more experience with gameplay and UI programming specifically. Below are listed all of my projects, from my most recent one to the least recent one.
+As a student in video game programming, I am looking for an internship as a video game programmer, having more experience with gameplay and UI programming specifically. Below are listed all of my projects, from my most recent one to the least recent one.
 
 # About me
 Programming languages: **C#, C++**  
 Most significant contribution: **SteamBound project**  
-Relevant courses completed: **Advanced Data Structures, Object-Oriented Programming 1 & 2, Game Engine 1, 2 & 3(Unity and Unreal)**  
+Relevant courses completed: **Advanced Data Structures, Object-Oriented Programming 1 & 2, Game Engine 1, 2 & 3 (Unity and Unreal)**  
 My itch profile: https://ksoucha.itch.io
 
 # My projects
@@ -24,7 +24,7 @@ _Made with Unreal Engine in Blueprint and C++_
 **Description:** An action-adventure game where the player can fight enemies using different combinations of magic attributes (element, shape, size, speed). It is also possible to switch between first-person and top-down mode, the latter allowing the player to strategically control allies to defeat the enemies.
 * Implemented the UI widgets for the main menu, the game-over screen and the end-game screen
 * Implemented civilian AI behavior using Behavior Trees, transitioning between patrol, flee, and death states
-* Developed a data-oriented system for the Skill books using data tables and enums as the key, allowing narrative and level designers to dynamically update content without code changes
+* Developed a data-oriented system for interactive game objects (e.g. books) with data table using descriptive Enums as Keys, allowing narrative and level designers to update content without code changes
 * Optimized the Music Manager blueprint by replacing inefficient per-frame agent checks with collision-based triggers and implementing a map structure for music selection, reducing reliance on multiple booleans
 * Created a graph-based system in the GameEndingsManager Blueprint to manage and trigger different game endings based on completed missions
 * Itch.io page: [SteamBound](https://doumeki21.itch.io/steambound)
@@ -36,6 +36,7 @@ _Made with OpenFrameworks in C++_
 * Implemented a random number generator to use for the values of the linked list
 * Implemented a linked list represented by circles with the numbers inside
 * Implemented an oscillating animation for the circles
+* Implemented insertion, deletion and sorting for the linked list
 
 ## [SortingProject](https://github.com/Ksoucha/SortingProject)
 _Made with OpenFrameworks in C++_
@@ -75,7 +76,7 @@ _My first narrative text-based game, made in Console Application in C#_
 
 ## Other projects
 * [EnigmAlchemy](https://github.com/Ksoucha/Enigmalchemy_Fork): an open-source game contribution project, highlighting the use of linked lists, arrays, lists and code refactoring in a game
-* [FruityBird](https://github.com/Ksoucha/TP1_FruityBird): a 2D mini-game inspired by the Suika game
+* [FruityBird](https://github.com/Ksoucha/TP1_FruityBird): a 2D mini-game involving dropping fruits in different color boxes
 * [GravityMan](https://github.com/Ksoucha/TP2_GravityMan): a 2D mini-game featuring reversed gravity
 
 
