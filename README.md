@@ -8,7 +8,7 @@ Relevant courses completed: **Advanced Data Structures, Object-Oriented Programm
 My itch profile: https://ksoucha.itch.io
 
 # My projects
-## LazerBot
+## [LazerBot](https://github.com/Ksoucha/LazerBot)
 _Made with Unreal Engine in Blueprint_
 
 **Description:** A laser-based puzzle game where you play as a robot navigating through multiple levels by redirecting laser beams and manipulating objects
