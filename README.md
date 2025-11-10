@@ -2,10 +2,24 @@
 As a student in video game programming, I am looking for an internship as a video game programmer, having more experience with gameplay and UI programming specifically. Below are listed all of my projects, from my most recent one to the least recent one.
 
 # About me
-Programming languages: **C#, C++**  
+Main programming languages: **C#, C++**  
 Most significant contribution: **SteamBound project**  
-Relevant courses completed: **Advanced Data Structures, Object-Oriented Programming 1 & 2, Game Engine 1, 2 & 3 (Unity and Unreal)**  
-My itch profile: https://ksoucha.itch.io
+Relevant courses completed: **Advanced Data Structures, Object-Oriented Programming, Game Engine (Unity and Unreal)**  
+My itch.io -> [<img width="50" height="50" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/ab5ade99-5a54-4106-ba94-bddbc534dbaf"/>](https://ksoucha.itch.io)
+
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" alt="Unreal Engine" title="Unreal Engine"/></code>
+</div>
 
 # My projects
 ## [LazerBot](https://github.com/Ksoucha/LazerBot)
@@ -16,7 +30,7 @@ _Made with Unreal Engine in Blueprint_
 * Designed level layouts to support smooth gameplay flow
 * Implemented a scoring system to track the number of lasers successfully redirected into color-changing cones
 * Built UI widgets for the main menu, instructions, pause, score, and end-game screens
-* Itch.io page: [LazerBot](https://ksoucha.itch.io/lazerbot)
+* <img width="50" height="50" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/ab5ade99-5a54-4106-ba94-bddbc534dbaf"/> : [LazerBot](https://ksoucha.itch.io/lazerbot)
 
 ## [SteamBound](https://github.com/Ksoucha/ProjectGameOff2024) - submission for the GameOff2024 game jam
 _Made with Unreal Engine in Blueprint and C++_
@@ -27,7 +41,7 @@ _Made with Unreal Engine in Blueprint and C++_
 * Developed a data-oriented system for interactive game objects (e.g. books) with data table using descriptive Enums as Keys, allowing narrative and level designers to update content without code changes
 * Optimized the Music Manager blueprint by replacing inefficient per-frame agent checks with collision-based triggers and implementing a map structure for music selection, reducing reliance on multiple booleans
 * Created a graph-based system in the GameEndingsManager Blueprint to manage and trigger different game endings based on completed missions
-* Itch.io page: [SteamBound](https://doumeki21.itch.io/steambound)
+* <img width="50" height="50" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/ab5ade99-5a54-4106-ba94-bddbc534dbaf"/> : [SteamBound](https://doumeki21.itch.io/steambound)
 
 ## [LinkedListVisualizer](https://github.com/Ksoucha/LinkedListVisualizerProject)
 _Made with OpenFrameworks in C++_
@@ -64,7 +78,7 @@ _Made with Unity in 3D in C#_
 * Proposed and presented the game idea with a Miro board, outlining the gameplay flow and task breakdown
 * Implemented an AI patrolling above the maze and making the floor and wall tiles that he passes by disappear
 * Worked on the UI for the main menu, the end-game screen and the narrative text
-* Itch.io page: [The Bookworm](https://ksoucha.itch.io/the-bookworm)
+* <img width="50" height="50" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/ab5ade99-5a54-4106-ba94-bddbc534dbaf"/> : [The Bookworm](https://ksoucha.itch.io/the-bookworm)
 
 ## [BoucleBleue](https://github.com/Ksoucha/BoucleBleue)
 _My first narrative text-based game, made in Console Application in C#_
