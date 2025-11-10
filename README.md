@@ -5,7 +5,7 @@ As a student in video game programming, I am looking for an internship as a vide
 Main programming languages: **C#, C++**  
 Most significant contribution: **SteamBound project**  
 Relevant courses completed: **Advanced Data Structures, Object-Oriented Programming, Game Engine (Unity and Unreal)**  
-My itch.io -> [<img width="50" height="50" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/ab5ade99-5a54-4106-ba94-bddbc534dbaf"/>](https://ksoucha.itch.io)
+My itch.io -> [<img width="30" height="30" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/a834a2ca-ed70-42fc-a032-aff2ba5965eb"/>](https://ksoucha.itch.io)
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
@@ -30,7 +30,7 @@ _Made with Unreal Engine in Blueprint_
 * Designed level layouts to support smooth gameplay flow
 * Implemented a scoring system to track the number of lasers successfully redirected into color-changing cones
 * Built UI widgets for the main menu, instructions, pause, score, and end-game screens
-* <img width="50" height="50" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/ab5ade99-5a54-4106-ba94-bddbc534dbaf"/> : [LazerBot](https://ksoucha.itch.io/lazerbot)
+* <img width="30" height="30" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/a834a2ca-ed70-42fc-a032-aff2ba5965eb"/> : [LazerBot](https://ksoucha.itch.io/lazerbot)
 
 ## [SteamBound](https://github.com/Ksoucha/ProjectGameOff2024) - submission for the GameOff2024 game jam
 _Made with Unreal Engine in Blueprint and C++_
@@ -41,7 +41,7 @@ _Made with Unreal Engine in Blueprint and C++_
 * Developed a data-oriented system for interactive game objects (e.g. books) with data table using descriptive Enums as Keys, allowing narrative and level designers to update content without code changes
 * Optimized the Music Manager blueprint by replacing inefficient per-frame agent checks with collision-based triggers and implementing a map structure for music selection, reducing reliance on multiple booleans
 * Created a graph-based system in the GameEndingsManager Blueprint to manage and trigger different game endings based on completed missions
-* <img width="50" height="50" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/ab5ade99-5a54-4106-ba94-bddbc534dbaf"/> : [SteamBound](https://doumeki21.itch.io/steambound)
+* <img width="30" height="30" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/a834a2ca-ed70-42fc-a032-aff2ba5965eb"/> : [SteamBound](https://doumeki21.itch.io/steambound)
 
 ## [LinkedListVisualizer](https://github.com/Ksoucha/LinkedListVisualizerProject)
 _Made with OpenFrameworks in C++_
@@ -78,7 +78,7 @@ _Made with Unity in 3D in C#_
 * Proposed and presented the game idea with a Miro board, outlining the gameplay flow and task breakdown
 * Implemented an AI patrolling above the maze and making the floor and wall tiles that he passes by disappear
 * Worked on the UI for the main menu, the end-game screen and the narrative text
-* <img width="50" height="50" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/ab5ade99-5a54-4106-ba94-bddbc534dbaf"/> : [The Bookworm](https://ksoucha.itch.io/the-bookworm)
+* <img width="30" height="30" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/a834a2ca-ed70-42fc-a032-aff2ba5965eb"/> : [The Bookworm](https://ksoucha.itch.io/the-bookworm)
 
 ## [BoucleBleue](https://github.com/Ksoucha/BoucleBleue)
 _My first narrative text-based game, made in Console Application in C#_
