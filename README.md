@@ -38,7 +38,7 @@ _Made with Unreal Engine in Blueprint and C++_
 **Description:** An action-adventure game where the player can fight enemies using different combinations of magic attributes (element, shape, size, speed). It is also possible to switch between first-person and top-down mode, the latter allowing the player to strategically control allies to defeat the enemies.
 * Implemented the UI widgets for the main menu, the game-over screen and the end-game screen
 * Implemented civilian AI behavior using Behavior Trees, transitioning between patrol, flee, and death states
-* Developed a data-oriented system for interactive game objects (e.g. books) with data table using descriptive Enums as Keys, allowing narrative and level designers to update content without code changes
+* Developed a data-oriented system for interactive game objects (e.g. books) with data table using Enums as Keys, allowing narrative and level designers to update content without code changes
 * Optimized the Music Manager blueprint by replacing inefficient per-frame agent checks with collision-based triggers and implementing a map structure for music selection, reducing reliance on multiple booleans
 * Created a graph-based system in the GameEndingsManager Blueprint to manage and trigger different game endings based on completed missions
 * <img width="30" height="30" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/a834a2ca-ed70-42fc-a032-aff2ba5965eb"/> : [SteamBound](https://doumeki21.itch.io/steambound)
