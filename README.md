@@ -1,10 +1,10 @@
 # Hi there 👋
-As a student in video game programming, I am looking for an internship as a video game programmer, having more experience with gameplay and UI programming specifically. Below are listed all of my projects, from my most recent one to the least recent one.
+Video game programmer here, looking for new roles where new challenges await me! Below are listed all of my projects, from my most recent one to the least recent one.
 
 # About me
 Main programming languages: **C#, C++**  
 Most significant contribution: **SteamBound project**  
-Relevant courses completed: **Advanced Data Structures, Object-Oriented Programming, Game Engine (Unity and Unreal)**  
+Relevant courses completed: **Data Structures and Algorithms, Object-Oriented Programming, Game Engine (Unity and Unreal)**  
 My itch.io -> [<img width="30" height="30" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/a834a2ca-ed70-42fc-a032-aff2ba5965eb"/>](https://ksoucha.itch.io)
 
 <div align="center">
