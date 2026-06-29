@@ -1,10 +1,9 @@
 # Hi there 👋
-Video game programmer here, looking for new roles where new challenges await me! Below are listed all of my projects, from my most recent one to the least recent one.
+Video game programmer with experience working at both indie and AA studios. Mostly focused on gameplay programming, and I like to do 3D modeling and pixel art in my free time! Below are listed all of my projects, from my most recent one to the least recent one.
 
 # About me
 Main programming languages: **C#, C++**  
-Most significant contribution: **SteamBound project**  
-Relevant courses completed: **Data Structures and Algorithms, Object-Oriented Programming, Game Engine (Unity and Unreal)**  
+Most significant contribution: **SteamBound project**    
 My itch.io -> [<img width="30" height="30" alt="Itch-logo" align="center" src="https://github.com/user-attachments/assets/a834a2ca-ed70-42fc-a032-aff2ba5965eb"/>](https://ksoucha.itch.io)
 
 <div align="center">
@@ -89,6 +88,7 @@ _My first narrative text-based game, made in Console Application in C#_
 * Implemented multiple endings, unlocked based on the player’s choices
 
 ## Other projects
+* [ObjectSpawner](https://github.com/Ksoucha/ObjectSpawnerProject): a spawning system that dynamically spawns actors and manages their lifecycle
 * [EnigmAlchemy](https://github.com/Ksoucha/Enigmalchemy_Fork): an open-source game contribution project, highlighting the use of linked lists, arrays, lists and code refactoring in a game
 * [FruityBird](https://github.com/Ksoucha/TP1_FruityBird): a 2D mini-game involving dropping fruits in different color boxes
 * [GravityMan](https://github.com/Ksoucha/TP2_GravityMan): a 2D mini-game featuring reversed gravity
